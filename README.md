@@ -3,7 +3,7 @@
 A simple and elegant photo gallery of rose images created using **HTML** and **CSS**, showcasing the power of **Flexbox** for clean and responsive layout design.
 
 ## 🔗 Live Demo
-[Click here to view the gallery](https://yourusername.github.io/rose-photo-gallery/)  
+[Click here to view the gallery](https://likhita-nanda.github.io/photo_frame/)  
 [GitHub Repository](https://github.com/Likhita-nanda/photo_frame)
 
 ## 📝 Features
@@ -20,7 +20,7 @@ This project was created as a practice exercise to:
 
 ## 📁 Folder Structure
 ```
-rose-photo-gallery/  
+photo_frame/  
 ├── index.html  
 ├── index.css  
 ```
